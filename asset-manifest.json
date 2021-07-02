@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cruddreact/static/css/main.b801a29a.chunk.css",
+    "main.js": "/cruddreact/static/js/main.d278a885.chunk.js",
+    "main.js.map": "/cruddreact/static/js/main.d278a885.chunk.js.map",
+    "runtime-main.js": "/cruddreact/static/js/runtime-main.3cb00fb4.js",
+    "runtime-main.js.map": "/cruddreact/static/js/runtime-main.3cb00fb4.js.map",
+    "static/js/2.ca393369.chunk.js": "/cruddreact/static/js/2.ca393369.chunk.js",
+    "static/js/2.ca393369.chunk.js.map": "/cruddreact/static/js/2.ca393369.chunk.js.map",
+    "index.html": "/cruddreact/index.html",
+    "static/css/main.b801a29a.chunk.css.map": "/cruddreact/static/css/main.b801a29a.chunk.css.map",
+    "static/js/2.ca393369.chunk.js.LICENSE.txt": "/cruddreact/static/js/2.ca393369.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cb00fb4.js",
+    "static/js/2.ca393369.chunk.js",
+    "static/css/main.b801a29a.chunk.css",
+    "static/js/main.d278a885.chunk.js"
+  ]
+}
